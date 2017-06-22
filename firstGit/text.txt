@@ -1,2 +1,2 @@
 HELLO WORLD
-The sky is red.
+The sky is blue.
